@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# Streamlit and cache
+.streamlit/
+.cache/
+
+# OS and Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter and notebooks
+.ipynb_checkpoints/
+
+# Build / Dist Files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.bak
